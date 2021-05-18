@@ -1,5 +1,5 @@
 
-#' Obfuscates small counts in result data for sites where IRBs require such for the SeverityAug project
+#' Obfuscates small counts in result data for sites where IRBs require such for the Phase2.1SeverityAugPackage project
 #'
 #' @keywords 4CE
 #' @export

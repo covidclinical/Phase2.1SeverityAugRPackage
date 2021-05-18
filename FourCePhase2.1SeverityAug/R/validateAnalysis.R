@@ -1,5 +1,5 @@
 
-#' Validates the results of the analytic workflow for the SeverityAug project
+#' Validates the results of the analytic workflow for the Phase2.1SeverityAugPackage project
 #'
 #' @keywords 4CE
 #' @export
