@@ -14,7 +14,9 @@ FourCePhase2.1SeverityAug::submitAnalysis()
 ```
 The runAnalysis function has 4 arguments: 
 
-- chartReview_path: location of chart-review data maxdays: maximum length of admissions to consider (default value: 30) 
+- chartReview_path: location of chart-review data 
+
+- maxdays: maximum length of admissions to consider (default value: 30) 
 
 - mindays: days prior to admission from which to collect events (default value: -2) 
 
